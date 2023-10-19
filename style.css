@@ -1,0 +1,25 @@
+.profile-img{
+    border-radius: 50%;
+    height: 200px;
+}
+.background{
+    background-color: #E5C3A6;
+}
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+.header{
+    position: fixed;
+}
+.Contact{
+    background-color: #7C81AD;
+}
+h1{
+    font-family: cardo;
+}
+.container-fluid{
+    background-color: #7C81AD;
+    position: fixed;
+}
